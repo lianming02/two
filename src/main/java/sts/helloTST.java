@@ -2,8 +2,9 @@ package sts;
 
 public class helloTST {
 	public static void main(String[] args) {
-		System.out.println("µÚÒ»¸östsÏîÄ¿ÍÆËÍµ½github");
-		System.out.println("¸üĞÂstsÏîÄ¿");
-		System.out.println("´ÓgithubÒıÈëµ½stsµÚÒ»´ÎÌá½»");
+		System.out.println("ï¿½ï¿½Ò»ï¿½ï¿½stsï¿½ï¿½Ä¿ï¿½ï¿½ï¿½Íµï¿½github");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½stsï¿½ï¿½Ä¿");
+		System.out.println("ï¿½ï¿½githubï¿½ï¿½ï¿½ëµ½stsï¿½ï¿½Ò»ï¿½ï¿½ï¿½á½»");
+		System.out.println("ideaå¼•å…¥githubä¸­é¡¹ç›®ç¬¬ä¸€æ¬¡æäº¤");
 	}
 }
