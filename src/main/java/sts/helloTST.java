@@ -6,5 +6,6 @@ public class helloTST {
 		System.out.println("����sts��Ŀ");
 		System.out.println("��github���뵽sts��һ���ύ");
 		System.out.println("idea引入github中项目第一次提交");
+		System.out.println("idea第二次修改");
 	}
 }
